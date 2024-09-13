@@ -8,7 +8,7 @@ Cohorts are expected to keep ethics at the forefront of all digital endeavors an
 represent my colleagues, teachers and mentors at all times. With that said, if you notice any repo's
 designed or created for vulnerability exploitation, these are to be used in an ethical capacity and
 are for research purposes only. Proof of Concepts (poc's) that target 3rd party websites, services, 
-databases etc. should not be tested on randomly. Remember that with great power comes great 
+databases etc. should not be tested on random targets. Remember that with great power comes great 
 responsibility and at no time should you be using these scripts to target anyone without their consent.
 
 #echo "hack the planet"
